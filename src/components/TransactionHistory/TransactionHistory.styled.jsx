@@ -47,5 +47,3 @@ export const TableBody = styled.tbody`
     border-right: 1px solid #ccc;
   }
 `;
-
-<body></body>;
